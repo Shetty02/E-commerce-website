@@ -29,7 +29,7 @@ function HeaderCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100  "
-          src="https://cdn.shopify.com/s/files/1/0579/7924/0580/files/Flash_Sale_Web_banners_14.09_Desk.jpg?v=1663267349"
+          src="https://cdn.shopify.com/s/files/1/0579/7924/0580/files/newbanner.png?v=1661765199"
           alt="Third slide"
         />
         <Carousel.Caption>

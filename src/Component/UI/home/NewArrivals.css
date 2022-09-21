@@ -3,6 +3,9 @@
     padding: 10px;
     margin: 0;
 }
+.section-heading img{
+    width: 50px;
+}
 .newItems-row{
     display: flex;
     flex-direction: row;

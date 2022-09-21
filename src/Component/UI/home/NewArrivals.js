@@ -33,7 +33,9 @@ const newArrivalItems = [
 function NewArrivals() {
   return (
     <div className='home-newItems-container'>
-        <p className='section-heading'> NewArrivals</p>     
+        <p className='section-heading'> 
+        <img src="https://cdn.shopify.com/s/files/1/0579/7924/0580/files/New-Plants_2x_d5110dfd-b698-4342-ba8d-9aa908711a32_small.png?v=1656414976"  alt="" />
+        NewArrivals</p>     
         <div className="newItems-row">
             {
                 newArrivalItems.map(newItems => (
