@@ -47,7 +47,7 @@ function BestSellers() {
                     <span className='bestSellers-old-price'>Rs{bestSellers.oldPrice}</span>
                     <span className='bestSellers-new-price'>Rs{bestSellers.newPrice} </span>
                     </div>
-                    <button className='btn btn-success button-wrapper'>Add to Cart</button>
+                    <button className=' button-wrapper'>Add to Cart</button>
                     </div>
               ))
             }            
