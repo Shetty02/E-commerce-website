@@ -1,0 +1,51 @@
+.section-heading{
+    font-size: 40px;
+    padding: 10px;
+    margin: 20px;
+}
+.bestseller-row{
+    display: flex;
+    justify-content: space-around;
+}
+.bestSellers-cards {   
+    border: 2px solid white;
+    width: 300px;
+    padding-bottom: 5px;
+}
+.bestSellers-cards img{
+    background-color: rgb(244, 244, 244);
+    width: 100%;
+}
+img:hover{
+    transform: scale(1.1);  
+}
+.bestSellers-name p{
+    margin: 0;
+}
+.bestSellers-name{
+    font-size: 22px;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+.price-tag{
+    padding: 10px 0;
+    display: flex;
+}
+
+.price-tag .bestSellers-old-price{
+    margin: 5px;
+    text-decoration: line-through;
+}
+.price-tag .bestSellers-new-price{
+    font-size: 1.5rem;
+    color: green;
+}
+.button-wrapper{
+    padding: 6px;
+    width: 91%;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
